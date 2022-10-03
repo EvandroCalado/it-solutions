@@ -4,4 +4,4 @@
  Site para estudo de HTML, CSS e JS.
 
 :desktop_computer: Para atualizações
-:beatle: Para correção de bugs
+:floppy_disk: Para correção de bugs
