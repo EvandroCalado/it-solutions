@@ -91,7 +91,7 @@ a {
   justify-content: center;
   align-items: center;
   color: #eee;
-  background: url(../img/showcase.jpg) no-repeat center center/cover;
+  background: url(https://github.com/EvandroCalado/site-para-estudo-1/blob/main/img/showcase.jpg) no-repeat center center/cover;
   /* Overlay */
   background-color: #00000066;
   background-blend-mode: color;
@@ -248,13 +248,7 @@ a {
 
 .gallery-image:hover {
   transform: scale(1.1);
-  z-index: 2;
 }
-
-/* .gallery-image:nth-child(1):hover {
-    transform: scale(2) translateX(35%) translateY(25%);
-    z-index: 2;
-} */
 
 #footer {
   background-color: #222;
