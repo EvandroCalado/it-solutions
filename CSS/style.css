@@ -133,6 +133,9 @@ a {
 }
 
 .client {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 20%;
   filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.404));
 }
@@ -281,9 +284,6 @@ a {
   .navbar-items li:nth-child(2) {
     border-top: 1px solid #333;
     border-bottom: 1px solid #333;
-  }
-
-  #clients-container a {
   }
 
   .client {
