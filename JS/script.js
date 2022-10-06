@@ -1,3 +1,4 @@
+// GALERIA MODAL
 // Variáveis
 const galleryModal = document.querySelector(".gallery-modal");
 const galleryModalX = document.querySelector(".gallery-modal span");
