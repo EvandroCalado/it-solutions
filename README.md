@@ -1,6 +1,5 @@
 # 1
-[Site 1](https://evandrocalado.github.io/site1/){:target="_blank" rel="noopener"}
-
+[Site 1](https://evandrocalado.github.io/site1/)
 # Site para Estudo
 Site para estudo de HTML, CSS e JS.
 
